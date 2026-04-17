@@ -35,13 +35,7 @@ const mainNavItems: NavItem[] = [
         role: 'aitechnician',
     },
 
- {
-        title: 'Semen ',
-        url: '/semens',
-        icon: User2Icon,
-        role: 'aitechnician',
-    },
-
+ 
 ];
 
 const footerNavItems: NavItem[] = [
